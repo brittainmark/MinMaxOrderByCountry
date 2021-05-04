@@ -1,8 +1,5 @@
-﻿---
-title: "About Minimum Maximum Order By Country"
-date: 2021-04-27T12:53:58+01:00
-draft: false
----
+# About Minimum Maximum Order By Country
+
 This Module allows you to set minimum and maximum order values for your store. The values are base on the Cart total figure which excludes postage and packing. All values are base on the default **store** currency, however messages to customers will be displayed in the currency they are using if you allow multiple currencies.
 
 ## Where is it used
