@@ -1,8 +1,5 @@
----
-title: "Removing Minimum Maximum Order By Country"
-date: 2021-04-27T12:53:58+01:00
-draft: false
----
+# Removing Minimum Maximum Order By Country
+
 ## Remove installation
     
 1. Delete the following files from YOURADMIN directory.
