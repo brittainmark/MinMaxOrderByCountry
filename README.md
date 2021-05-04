@@ -4,7 +4,7 @@ This Module allows you to set minimum and maximum order values for your store. T
 
 ## Installation
 
-Installation instructions are in [Install.md](docs/Installation.md)
+Installation instructions are in [Installation.md](docs/Installation.md)
 
 ## About
 
