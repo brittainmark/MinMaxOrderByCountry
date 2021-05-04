@@ -1,9 +1,7 @@
-﻿---
-title: "Installing Minimum Maximum Order By Country"
-date: 2021-04-27T12:53:58+01:00
-draft: false
----
+# Installing Minimum Maximum Order By Country
+
 ## Installation
+
 - To install min_max_order copy the files from admin to YOURADMIN and includes to the includes directory on your server.
 - Log in to zen cart admin on your server.
     You should get two messages:  
