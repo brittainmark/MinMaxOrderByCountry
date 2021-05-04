@@ -1,8 +1,4 @@
-﻿---
-title: "Edit Minimum Maximum Order By Country"
-date: 2021-04-27T12:53:58+01:00
-draft: false
----
+# Edit Minimum Maximum Order By Country
 
 ## Change minimum and maximum values
 - Go to Admin > LOCATION / TAXES > Min Max Order Settings 
