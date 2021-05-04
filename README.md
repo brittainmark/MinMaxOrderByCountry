@@ -18,7 +18,7 @@ Help for setting up your minimum and maximum values is available in [Edit.md](do
 Instruction for uninstalling minimum maximum order by country are in [Uninstall.md](docs/Uninstall.md)
 
 ## Support
-The support thread is at [https://www.zen-cart.com/showthread.php?198005-Big-Royal-Mail-3-0](https://www.zen-cart.com/showthread.php?198005-Big-Royal-Mail-3-0)
+The support thread is at [https://www.zen-cart.com/showthread.php?228007-MinMaxOrderByCountry-support-thread](https://www.zen-cart.com/showthread.php?228007-MinMaxOrderByCountry-support-thread)
 
 ## Version History and Credits
 
