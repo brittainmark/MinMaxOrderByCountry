@@ -76,7 +76,7 @@ class min_max_order extends base
                     case 'NOTIFY_HEADER_START_CHECKOUT_SHIPPING':
                     case 'NOTIFY_HEADER_START_CHECKOUT_PAYMENT':
                     case 'NOTIFY_HEADER_START_CHECKOUT_CONFIRMATION':
-                        if (DEFAULT_MIN_ORDER_AMOUNT > 0 && $_SESSION['cart']->show_total() < $min_order_amount && $_SESSION['cart']->show_total() > 0) {
+                        if ($min_order_amount > 0 && $_SESSION['cart']->show_total() < $min_order_amount && $_SESSION['cart']->show_total() > 0) {
                             zen_redirect(zen_href_link(FILENAME_SHOPPING_CART));
                         } elseif ($max_order_amount > 0 && $_SESSION['cart']->show_total() > $max_order_amount && $_SESSION['cart']->show_total() > 0) {
                             zen_redirect(zen_href_link(FILENAME_SHOPPING_CART));
