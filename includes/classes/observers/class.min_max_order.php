@@ -124,7 +124,7 @@ class min_max_order extends base
             $check_query = "SELECT entry_country_id
                     FROM " . TABLE_ADDRESS_BOOK . "
                     WHERE address_book_id = :addressBookID ;";
-            $check_query = $db->bindVars($check_query, ':addressBookID', $_SESSION['sendto'], 'integer');
+            $check_query = $db->bindVars($check_query, ':addressBookID', $_SESSION['customer_default_address_id'], 'integer');
             $check = $db->Execute($check_query);
             if ($check->RecordCount() > 0)
                 $check_country_id = $check->fields['entry_country_id'];
